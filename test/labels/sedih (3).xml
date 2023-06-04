@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasetlast</folder>
+	<filename>sedih (3).JPG</filename>
+	<path>C:\Users\acer\Downloads\datasetlast\sedih (3).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sedih</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>1828</ymin>
+			<xmax>1084</xmax>
+			<ymax>2521</ymax>
+		</bndbox>
+	</object>
+</annotation>

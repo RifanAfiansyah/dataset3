@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasetlast</folder>
+	<filename>kamu (12).JPG</filename>
+	<path>C:\Users\acer\Downloads\datasetlast\kamu (12).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kamu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1136</xmin>
+			<ymin>1483</ymin>
+			<xmax>1610</xmax>
+			<ymax>1970</ymax>
+		</bndbox>
+	</object>
+</annotation>

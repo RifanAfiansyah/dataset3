@@ -1,0 +1,26 @@
+<annotation>
+	<folder>datasetlast</folder>
+	<filename>ibu (20).JPG</filename>
+	<path>C:\Users\acer\Downloads\datasetlast\ibu (20).JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2320</width>
+		<height>3088</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ibu</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>416</xmin>
+			<ymin>1454</ymin>
+			<xmax>865</xmax>
+			<ymax>2089</ymax>
+		</bndbox>
+	</object>
+</annotation>
